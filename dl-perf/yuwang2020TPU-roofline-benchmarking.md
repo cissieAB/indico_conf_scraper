@@ -33,6 +33,6 @@ The ParamDnn benchmark suite is available [here](https://github.com/Emma926/para
  The whole stuff works with TensorFlow but not PyTorch.
  The parameterized FC/CNN/DNN benchmarking script can be port to PyTorch.
 
-This paper also involves some MLPerf benchmarking results, and I did not
- look into carefully. I care about the roofline analysis and the
+This paper also involves some MLPerf or other typical DL benchmarking results,
+ but I did not look into them carefully. I care about the roofline analysis and the
  FC/CNN/RNN hyperparameter configuration most.
