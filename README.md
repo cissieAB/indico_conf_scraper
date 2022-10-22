@@ -1,4 +1,4 @@
-## Categories
+## Topics
 - [DL performance benchmarking and analysis](./dl-perf/toc.md)
 - ML applications in nuclear physics
 - [Roofline and its appliances](./roofline/toc.md)
