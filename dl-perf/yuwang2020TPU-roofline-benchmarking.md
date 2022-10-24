@@ -1,4 +1,4 @@
-# ParaDNN: roofline benchmarking TPU, GPU and CPU
+# ParaDNN: benchmarking TPU, GPU and CPU and roofline analysis
 
 - Paper url
   - https://arxiv.org/pdf/1907.10701.pdf
