@@ -47,8 +47,9 @@ Though this work is done on a V100 GPU, it gives many insights on how to get GPU
  accounts for 50% of the time. They should be overlapped better. 
 
 ---
-The NCU benchmarking method is reproducible, and I already reproduce that.
+Oct-25-2022: the NCU benchmarking method is reproducible, and I already reproduced that.
 I haven't tried the AMP library or look into the tensor cores yet.
 
-Oct-25-2022
+
+
 ---
