@@ -45,3 +45,10 @@ Though this work is done on a V100 GPU, it gives many insights on how to get GPU
 - TensorFlow has dominant (in runtime) kernels but PyTorch does not have any in forward pass. 
 - Non-AI workloads (no FP operation is performed, i.e., data type converting, rearranging the data layout, etc.)
  accounts for 50% of the time. They should be overlapped better. 
+
+---
+The NCU benchmarking method is reproducible, and I already reproduce that.
+I haven't tried the AMP library or look into the tensor cores yet.
+
+Oct-25-2022
+---
