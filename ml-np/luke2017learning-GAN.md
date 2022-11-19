@@ -4,7 +4,7 @@
 - Paper link: https://arxiv.org/pdf/1701.05927.pdf
 
 ```bibtex
-@article{2017,
+@article{2017LAGAN,
    title={{Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis}},
    volume={1},
    ISSN={2510-2044},

@@ -3,7 +3,7 @@ Benchmarking State-of-the-Art Deep Learning Software Tools
 - Paper url: https://ieeexplore.ieee.org/document/7979887
 
 ```bibtex
-@INPROCEEDINGS{shaohuai2017benchmarking,
+@INPROCEEDINGS{shaohuai2016benchmarking,
   author={Shi, Shaohuai and Wang, Qiang and Xu, Pengfei and Chu, Xiaowen},
   booktitle={2016 7th International Conference on Cloud Computing and Big Data (CCBD)}, 
   title={Benchmarking State-of-the-Art Deep Learning Software Tools},
