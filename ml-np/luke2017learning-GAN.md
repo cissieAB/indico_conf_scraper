@@ -1,8 +1,7 @@
 ## Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis
 
-Github link: https://github.com/hep-lbdl/adversarial-jets
-
-Paper link: https://arxiv.org/pdf/1701.05927.pdf
+- Github link: https://github.com/hep-lbdl/adversarial-jets
+- Paper link: https://arxiv.org/pdf/1701.05927.pdf
 
 ```bibtex
 @article{2017,

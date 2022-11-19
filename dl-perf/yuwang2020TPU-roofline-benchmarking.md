@@ -21,6 +21,7 @@
 }
 ```
 ---
+### Oct 2022
 
 This paper studies the DL training performance on one GPU/TPU/GPU.
  Specifically, it compares TPU v2 to v3 and TPU to NVIDIA V100.

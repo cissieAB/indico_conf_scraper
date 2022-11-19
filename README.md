@@ -5,5 +5,6 @@ Topics include:
 - [ML applications in nuclear physics](./ml-np/toc.md)
 - [Roofline and its appliances](./roofline/toc.md)
 - PINN
-- Literature reviews by big names
 - [Prof. Xiaowen Chu's work](./chxw/toc.md)
+- Bin Ren's collaboration with JLab
+- Literature reviews by big names

@@ -13,6 +13,7 @@ Paper link: https://arxiv.org/pdf/2009.05257.pdf
 }
 ```
 ---
+### Aug 2022
 This paper is a guide on how to analyze/tune the DL workloads with the Roofline model.
  It tunes [DeepCAM](https://github.com/azrael417/mlperf-deepcam), a 2018 Goden Bell winner
  implemented with both PyTorch and TensorFlow, and plot the performance of different kernels
@@ -43,11 +44,13 @@ Though this work is done on a V100 GPU, it gives many insights on how to get GPU
 
 - TensorFlow forward pass shows high L2 cache locality and poor L1 locality. 
 - TensorFlow has dominant (in runtime) kernels but PyTorch does not have any in forward pass. 
-- Non-AI workloads (no FP operation is performed, i.e., data type converting, rearranging the data layout, etc.)
+- Non-AI workloads (no FP operation is performed, e.g., data type converting, rearranging the data layout, etc.)
  accounts for 50% of the time. They should be overlapped better. 
 
 ---
-Oct-25-2022: the NCU benchmarking method is reproducible, and I already reproduced that.
+### Oct-25 2022
+
+The NCU benchmarking method is reproducible, and I already reproduced that.
 I haven't tried the AMP library or look into the tensor cores yet.
 
 

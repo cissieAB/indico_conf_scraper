@@ -14,8 +14,8 @@
 ```
 
 ---
-First read on 10/22/2022. Don't quite understand though it only
- gets 6 pages.
+### Oct 22 2022
+Don't quite understand though it only gets 6 pages.
 
 The NN architecture is in Section 3, which seems to be FCs.
  The loss function and the stepping method look like to be in

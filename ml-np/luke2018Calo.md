@@ -1,8 +1,7 @@
 ## CaloGAN: Simulating 3D high energy particle showers in multilayer electromagnetic calorimeters with generative adversarial networks
 
-Github repo: https://github.com/hep-lbdl/CaloGAN
-
-Paper link: https://arxiv.org/pdf/1705.02355.pdf
+- Github repo: https://github.com/hep-lbdl/CaloGAN
+- Paper link: https://arxiv.org/pdf/1705.02355.pdf
 
 ```bibtex
 @article{paganini2018calogan,
