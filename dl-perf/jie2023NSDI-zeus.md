@@ -23,5 +23,5 @@
 - The system they developed with PyTorch can reduce 15.3-75.8% energy, compared
  to the maximum batch_size and power_cap. Maximum power_cap is NVIDIA's
  current policy. Energy saving numbers are in Figure 1.
-
-
+- A low-latency/just-in-time (JIT) online scheduling algorithm is proposed
+and integrated into PyTorch dataloader. Github repo is linked above.
