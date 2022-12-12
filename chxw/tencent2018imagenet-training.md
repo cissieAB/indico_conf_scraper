@@ -7,7 +7,7 @@
   title={Highly scalable deep learning training system with mixed-precision: Training {ImageNet} in four minutes},
   author={Jia, Xianyan and Song, Shutao and He, Wei and Wang, Yangzihao and Rong, Haidong and Zhou, Feihu and Xie, Liqiang and Guo, Zhenyu and Yang, Yuanzhou and Yu, Liwei and others},
   booktitle={NeurIPS Workshop on Systems for ML and Open Source Software, Montreal, Canada}, 
-  year={2018}
+  year={2018},
   month={12}
 }
 ```

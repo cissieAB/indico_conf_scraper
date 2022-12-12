@@ -7,5 +7,6 @@ Topics include:
 - [GPU Tensor Cores](./tc/toc.md)
 - PINN
 - [Prof. Xiaowen Chu's work](./chxw/toc.md)
-- Bin Ren's collaboration with JLab
 - Literature reviews by big names
+- [NVIDIA GPU Tensor Core study](./tc/toc.md)
+- Bin Ren's collaboration with JLab
