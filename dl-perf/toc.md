@@ -1,7 +1,7 @@
 ## Deep learning performance analysis
 
 ### Benchmarking
-- [ParaDnn](yuwang2020TPU-roofline-benchmarking.md), Yu Wang et al. 2020. A parameterized DL 
+- [ParaDnn](yuwang2020TPU-roofline-benchmarking.md), Yu Wang et al. 2020. A parameterized DL
  benchmarking suite and TPU's CNN/FC roofline analysis.
 - [NovelAISystems](murali2022PMBS-noval.md), Murali et al. 2022 PMBS. Performance evaluation of noval systems,
 such as Sambanova, Cerebras, Graphcore and Groq using NVIDIA A100 as baseline.
