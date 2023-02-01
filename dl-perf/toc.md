@@ -14,3 +14,8 @@ leading HPC systems with micro and macro AI/HPC applications.
 - [Zeus](jie2023NSDI-zeus.md), Jie You et al. 2023 NSDI. Energy consumption optimized PyTorch DNN training
 with GitHub repo. Finding the optimal batch_size and power_cap. Online low-latency scheduling
 algorithm.
+
+
+### Posts on calculating FLOPS of DL applications
+- [How to measure FLOP/s for Neural Networks empirically?](https://www.alignmentforum.org/posts/jJApGWG95495pYM7C)
+- [What’s the backward-forward FLOP ratio for Neural Networks?](https://www.alignmentforum.org/posts/fnjKpBoWJXcSDwhZk)
