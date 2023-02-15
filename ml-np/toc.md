@@ -6,4 +6,6 @@ by JLab etc.
 - [Learning GAN 2017](luke2017learning-GAN.md), Luke et al. 2017. GAN by the LHC team with Github repo.
 - [CaloGAN 2018](luke2018Calo.md), Luke et al. 2018. Another GAN work by the LHC team with Github repo.
 - [GAN Simulation 2019 ACAT](acat2019-gan.md). ACAT2019. A GAN work that's included in JLab's
+- [EPiC-GAN 2023](). Eric et al 2023. With GitHub code forked to my page.
+
 MLinNP literature review.
