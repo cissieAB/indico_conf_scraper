@@ -7,7 +7,7 @@ Topics:
 - PINN
 - [Literature reviews, surveys, etc](./reviews/toc.md)
 - [NVIDIA GPU Tensor Core study](./tc/toc.md)
-
+- [QCD](./qcd/toc.md)
 ---
 
 People to track:
